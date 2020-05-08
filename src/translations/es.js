@@ -53,7 +53,7 @@ export const messages = {
   "height": "Bloque",
   "age": "Tiempo",
   "bytes": "Bytes",
-  "MByte": "MByte",
+  "MByte": "MByte1",
   "produced_by": "Producido por",
   "block_reward": "Recompensa de bloque",
   "contract": "Contrato",
